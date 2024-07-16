@@ -1,3 +1,3 @@
 
 [[Vulnerability Exploit]]
-[[Linux Kernel Exploit]]
+[[Kernel Exploit]]
