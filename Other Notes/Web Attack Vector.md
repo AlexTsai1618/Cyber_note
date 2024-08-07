@@ -1,0 +1,1 @@
+[Server-Side Template Injection | PortSwigger Research](https://portswigger.net/research/server-side-template-injection)
