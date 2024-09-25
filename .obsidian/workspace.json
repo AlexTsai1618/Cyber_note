@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "7c29df716a723b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "585158918d90e43c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6632a9c8606cbf4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber_note/EJPT Notes/Linux/Linux  Local Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37834a8ee7a6e164",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b863f91906d1ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95ad732be7b2bb5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7878de860112ce6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#privilage_esc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2352fbb1008f9a87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "294535d6e37ef935",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f89f48ac691a21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49e8a24ebedb38d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cyber_note/EJPT Notes/Linux/Linux  Local Enumeration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bead451d8889b32a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cyber_note/EJPT Notes/Linux/Linux  Local Enumeration.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ff2f007329379755",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5171fab60758085",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cyber_note/EJPT Notes/Linux/Linux  Local Enumeration.md"
+              }
+            }
+          },
+          {
+            "id": "1c46b82b1c48d700",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3f3fbaaa2433597",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-day-planner:Timeline": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "6632a9c8606cbf4c",
+  "lastOpenFiles": [
+    "Cyber_note/EJPT Notes/Linux/Linux Hashdump.md",
+    "Cyber_note/EJPT Notes/Linux/Linux  Local Enumeration.md",
+    "Cyber_note/General Cheat Sheet/General Cheat Sheet Main.md",
+    "Cyber_note/EJPT Notes/Windows/Credential Dumping.md",
+    "Cyber_note/EJPT Notes/Windows/Windows Main.md",
+    "Cyber_note/EJPT Notes/Windows/Kernel Exploit.md",
+    "2024-09-25.md",
+    "Untitled.canvas",
+    "Cyber_note/EJPT Notes/Windows/SMB.md",
+    "Cyber_note/EJPT Notes/Linux/Vulnerability Exploit.md",
+    "Cyber_note/EJPT Notes/Web/WebDav.md",
+    "Cyber_note/EJPT Notes/Web/Web main.md",
+    "Cyber_note/EJPT Notes/Linux/Linux Kernel Exploit.md",
+    "Cyber_note/EJPT Notes/Linux/Linux Main.md",
+    "Ideas and Related Documents.md",
+    "Cyber_note/Other Notes/Web Attack Vector.md",
+    "Cyber_note/Other Notes",
+    "TODOS.md",
+    "Cyber_note/Hack The box/HTB main.md",
+    "Cyber_note/Hack The box",
+    "Cyber_note/General Cheat Sheet",
+    "Untitled",
+    "TODO.md",
+    "Cyber_note/EJPT Notes/EJPT main.md",
+    "Cyber_note/README.md",
+    "Untitled 1.canvas",
+    "Cyber_note/EJPT Notes/Web",
+    "create a link.md",
+    "Welcome.md",
+    "Cyber_note/pics/Screenshot 2024-07-15 at 12.59.51 PM.png",
+    "Cyber_note/pics/Screenshot 2024-07-15 at 12.39.30 PM.png",
+    "Cyber_note/pics",
+    "Cyber_note/EJPT Notes/Windows",
+    "Cyber_note/EJPT Notes/Linux",
+    "Cyber_note/EJPT Notes",
+    "Cyber_note"
+  ]
+}

@@ -1,0 +1,4 @@
+- [ ] ⏫ Kali linux docker image 📅 2024-08-01 ^fqvh
+- [ ] ⏫ Test kali ^9958
+- [ ] ⏫ PentestWS
+- [ ] 
